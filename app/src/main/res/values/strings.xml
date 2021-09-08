@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AliveCor Application</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">DOB</string>
+    <string name="next">Next</string>
+    <string name="age">Age</string>
+    <string name="age_format">%1$d Years, %2$d month, %3$d days</string>
+    <string name="colon_format">%1$s: %2$s</string>
+    <string name="submit">Submit</string>
+</resources>
