@@ -75,10 +75,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:drawableEnd="@drawable/ic_calendar"
-            android:focusable="false"
+            android:focusable="true"
             android:hint="@string/dob"
             android:imeOptions="actionDone"
-            android:inputType="date"
+            android:inputType="text"
             android:maxLines="1" />
     </com.google.android.material.textfield.TextInputLayout>
 
